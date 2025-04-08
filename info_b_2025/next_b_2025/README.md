@@ -1,4 +1,4 @@
-# 2025 INFO C
+# 2025 INFO B
 Conteúdo da disciplina de FW 2025 turma C
 Next
 React

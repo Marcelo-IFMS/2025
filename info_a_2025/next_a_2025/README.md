@@ -1,5 +1,5 @@
-# 2025 INFO C
-Conteúdo da disciplina de FW 2025 turma C
+# 2025 INFO A
+Conteúdo da disciplina de FW 2025 turma A
 Next
 React
 React-Dom
