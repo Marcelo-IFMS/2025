@@ -1,0 +1,4 @@
+export default function Home() {
+  return <>
+  <h1>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Doloremque cumque dolor velit impedit sint quasi ex, in, vero esse dolorum labore ratione vel omnis excepturi totam culpa consectetur odio molestiae! Dignissimos esse asperiores adipisci, rerum corporis fuga facere possimus explicabo odio repudiandae dolor eaque iste deleniti in aspernatur quidem praesentium obcaecati aliquid labore ab cupiditate rem. Molestias explicabo hic accusantium pariatur similique, repudiandae corrupti neque illo sapiente itaque aliquam magni eaque nostrum dicta ipsa voluptatum quia beatae nam veniam asperiores consequatur quaerat ipsum qui maiores! Incidunt ab, quidem neque tempore quos rem ipsum. Laborum, velit itaque? Perferendis commodi suscipit quia?</h1></>
+}
