@@ -1,5 +1,10 @@
+import Footer from "./components/footer";
+import Menu from "./components/menu";
+
 export default function Home() {
   return <>
-    Olá
+    <Menu />
+    <div>Home</div>
+    <Footer />
   </>
 }
